@@ -22,7 +22,7 @@ public class Main extends Application{
 		AdminSystem adminSystem = new AdminSystem();
 		manageable systemInterface = new GUI(arg0);
 		ManegmentSystemController controller = new ManegmentSystemController(adminSystem, systemInterface);
-		
+		//new
 		
 	}
 	
